@@ -2,7 +2,10 @@
 
 
 ## Cleaning
-We used two datasets
+We used two datasets, one from the HPD, and one from the DOB
+
+### Using Python Pandas
+### Using thefuzz package
 
 ## Models
 j,nm,nmnm
